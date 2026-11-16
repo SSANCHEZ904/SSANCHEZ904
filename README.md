@@ -3,7 +3,7 @@
 **Analista de datos · BI · Automatización de reportes** — Montería, Colombia
 **Data Analyst · BI · Reporting Automation** — Montería, Colombia
 
-🇪🇸 Convierto datos comerciales en tableros y reportes en los que el negocio puede confiar. Trabajo como consultor de analítica de datos para una operación de venta directa en Colombia, Perú y Ecuador: escribo el SQL, construyo los tableros en Tableau y automatizo lo que antes se hacía a mano.
+Convierto datos comerciales en tableros y reportes en los que el negocio puede confiar. Trabajo como consultor de analítica de datos para una operación de venta directa en Colombia, Perú y Ecuador: escribo el SQL, construyo los tableros en Tableau y automatizo lo que antes se hacía a mano.
 
 🇬🇧 I turn commercial data into dashboards and reports the business can trust. I work as a data analytics consultant for a direct-sales operation across Colombia, Peru and Ecuador: I write the SQL, build the Tableau dashboards and automate what used to be done by hand.
 
